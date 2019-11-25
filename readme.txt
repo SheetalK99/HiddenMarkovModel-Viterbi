@@ -1,3 +1,2 @@
-#Autho:Sheetal Kadam (sak170006)
-
+To run file:
 python viterbialgo.py
