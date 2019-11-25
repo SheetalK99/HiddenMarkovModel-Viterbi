@@ -1,7 +1,7 @@
 
 #Programmatically implement the Viterbi algorithm to compute the most likely
 #tag sequence and probability for any given observation sequence. 
-#Author:Sheetal Kadam (sak170006)
+#Author:Sheetal Kadam 
 import numpy as np
 
 
